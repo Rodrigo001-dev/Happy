@@ -34,18 +34,18 @@ Happy is an application that was made for study but its concept is to make a con
 
 This project was developed with the following technologies:
 
-- [Node.js] (https://nodejs.org/en/)
-- [React] (https://reactjs.org)
-- [React Native] (https://facebook.github.io/react-native/)
-- [Expo] (https://expo.io/)
-- [TypeScript] (https://www.typescriptlang.org/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## 🔖 Layout
 
 In the links below you will find the layout of the web and mobile project. Remembering that you need to have an account at [Figma] (http://figma.com/) to access it.
 
-- [Web Layout] (https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web)
-- [Mobile Layout] (https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile)
+- [Web Layout](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web)
+- [Mobile Layout](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile)
 
 
 ## Demostração/Demonstration
