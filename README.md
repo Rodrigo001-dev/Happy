@@ -48,5 +48,10 @@ In the links below you will find the layout of the web and mobile project. Remem
 - [Mobile Layout] (https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile)
 
 
+## Demostração/Demonstration
+![Gif Web](https://github.com/Rodrigo001-de/Happy/blob/main/Happy.gif)
+
+## mobile
+![Gif Mobile](https://github.com/Rodrigo001-de/Happy/blob/main/Happy-Mobile.gif)
 
 
